@@ -10,9 +10,9 @@ Google Foobar is a secret way of recruiting top developers and programmers from 
 ## Hardest problem so far:
  Level 4 Problem 1: Bringing a Gun to a Trainer Fight.
 
-  [Problem description](4_1 Bringing-a-gun-to-a-trainer-fight/readme.md)
+  [Problem description](4_1_Bringing-a-gun-to-a-trainer-fight/readme.md)
 
-  [Solution](4_1 Bringing-a-gun-to-a-trainer-fight/solution.py)
+  [Solution](4_1_Bringing-a-gun-to-a-trainer-fight/solution.py)
 
   [Failed solution](Missceleanous/4_1Try.py)
 ## Authors
