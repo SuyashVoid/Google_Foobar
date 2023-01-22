@@ -5,7 +5,7 @@ I recently got invited by google for the foobar challenge. I have already solved
    
 ## What is Foobar?
 Google Foobar is a secret way of recruiting top developers and programmers from around the world. It includes challenges occurring instantly on the screen of the developer when they search for some specific keywords related to coding.
-![Google Foobar status page](Missceleanous/images/foobarTitle.png?raw=true "Foobar")
+![Google Foobar status page](Missceleanous/Images/foobarTitle.png?raw=true "Foobar")
 
 ## Hardest problem so far:
  Level 4 Problem 1: Bringing a Gun to a Trainer Fight.
